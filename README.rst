@@ -13,6 +13,7 @@ Required Modules:
   * Pypcd
   * Open3D
   * Pprint
+  * Pandas
 
 Installation:
 ==============================
@@ -33,6 +34,7 @@ Installation:
 
 ``$ pip install pprint``
 
+``$ pip install pandas``
 
 
 Example:
