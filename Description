@@ -1,0 +1,23 @@
+Package: Converter Cloud Point
+Type: Package
+Title: Converter Cloud Points .CSV to .PCD and Viewing
+Version: 1.0
+Date: 2019-12-12
+Web Page: https://github.com/PARPedraza/VelodyneVeloviewFiles-CSV-to-PCD-and-Viewing
+Authors: Alfonso Ramírez-Pedraza, CIO A. C., Loma del Bosque 115, Col. Lomas del Campestre, León, Gto, México, C.P. 37150, <ponchorp.1985@gmail.com> and José-Joel gonzalez-Barbosa, CICATA-IPN, Cerro-Blanco 141, Colinas del Cimatario, Querétaro, Qro. Mexico, C.P. 76090, <jgonzalezba@ipn.mx>
+Depends: numpy, csv, pypcd, opne3D, pprint
+Description:
+Packaged: 2019-12-12 18:34:42 UTC; Guadalajara, Mexic, Monterrey
+Repository: PARPedraza
+Date/Publication: 2019-12-12 18:33:42
+Cite:
+@article{article,
+author = {A. R. Pedraza, J. J. G. Barbosa},
+year = {2019},
+month = {},
+pages = {},
+title = {},
+volume = {},
+journal = {},
+doi = {}
+}
